@@ -1,0 +1,57 @@
+[
+    {
+        "storeId": 10001,
+        "latitude": 17.447800,
+        "longitude": 78.385410,
+        "addressLine1": "Srinivasa Nilayam, 2-37/9",
+        "addressLine2": "Gachibowli Rd-500032",
+        "storeName": "Ratandeep Supermarket",
+        "distance": "0.43 mi",
+        "status": "open"
+    },{
+        "storeId": 10002,
+        "latitude": 17.438540,
+        "longitude": 78.383002,
+        "addressLine1": "Hill Ridge Springs, Gachibowli",
+        "addressLine2": "Hyderabad-500032",
+        "storeName": "K P Reddy Grocery",
+		"distance": "0.36 mi",
+		"status": "close"
+    },{
+        "storeId": 10003,
+        "latitude": 17.448900,
+        "longitude": 78.384100,
+        "addressLine1": "ISB, D.No. IN The Premises Of",
+        "addressLine2": "Gachibowli-500032",
+        "storeName": "More Supermarket",
+		"distance": "0.67 mi",
+        "status": "open"
+    },{
+        "storeId": 10004,
+        "latitude": 22.364293,
+        "longitude": 79.029432,
+        "addressLine1": "Miyapur Rd, Opp. Furniture City Sleepwell",
+        "addressLine2": "Gachibowli-500081",
+        "storeName": "Rajshree Food Mart",
+		"distance": "0.57 mi",
+        "status": "no"
+    },{
+        "storeId": 10005,
+        "latitude": 17.445091,
+        "longitude": 78.383401,
+        "addressLine1": "Telangana NGOS Colony, Gachibowli",
+		"addressLine2": "Hyderabad-500032",
+        "storeName": "A To Z Market",
+		"distance": "0.96 mi",
+        "status": "close"
+    },{
+        "storeId": 10006,
+        "latitude": 17.467579,
+        "longitude": 78.692345,
+        "addressLine1": "Opp Kims Hospital, Kothaguda Circle",
+        "addressLine2": "Kondapur-500084",
+        "storeName": "Vijetha Supermarket",
+		"distance": "0.65 mi",
+        "status": "open"
+    }
+]
